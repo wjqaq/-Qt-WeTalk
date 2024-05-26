@@ -101,10 +101,10 @@
 
 #### 安卓端结果
 1. 首先是将windows端的配置调整为手机架构版本，这里我是米13，因此我用这个以下架构和APK
-   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/3d3812e3-01e1-446f-bbd7-bf6126ac1dab)
+   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/3d3812e3-01e1-446f-bbd7-bf6126ac1dab)</br>
 2. 手机记得调整为开发者模式，打开usb调试功能，然后直接部署即可
-   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/4a6f7daf-de77-42d9-9895-111b34b61f8b)
-   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/22f5147c-e498-49ab-9e92-f0f38b99349f)
+   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/4a6f7daf-de77-42d9-9895-111b34b61f8b)</br>
+   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/22f5147c-e498-49ab-9e92-f0f38b99349f)</br>
 
 ## 五、代码介绍（后续会更新该点）
 #### 客户端介绍
