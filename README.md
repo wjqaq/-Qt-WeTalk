@@ -17,7 +17,7 @@
 3. 然后选择设备，android，浏览下载好后的jdk文件夹
   ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/2d2307f4-1c31-4435-9ed6-6982445e695b)</br>
 #### sdk
-1. 下载链接[jdk](https://developer.android.google.cn/tools/releases/platform-tools?hl=en "点击进入下载")</br>我的版本是SDK13
+1. 下载链接[sdk](https://developer.android.google.cn/tools/releases/platform-tools?hl=en "点击进入下载")</br>我的版本是SDK13
 2. 下载完后直接连接，还是刚刚那个位置
    ![image](https://github.com/wjqaq/-Qt-WeTalk/assets/101192481/efbae970-cd5b-429a-8cb3-027af4601bd7)</br>
 #### ndk
